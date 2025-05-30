@@ -2,8 +2,8 @@ from os import *
 from sys import *
 from collections import *
 from math import *
-
 from sys import stdin, stdout, setrecursionlimit
+
 def findTriplets(arr, n):
     arr.sort()
     triplets = []
